@@ -73,6 +73,7 @@ Bronze  →  Silver  →  Gold
 │   │   ├── router.py                    # Phân loại file processed/failed
 │   │   ├── silver.py                    # Chuẩn hóa Silver layer
 │   │   └── warehouse.py                 # Refresh fact tables
+│   ├── .gitignore
 │   ├── converter.py
 │   ├── docker-compose.yml
 │   ├── dockerfile.airflow
