@@ -1,3 +1,6 @@
+#Requirements để chạy toàn bộ
+
+#Phần A
 #requests
 #beautifulsoup4
 #lxml
@@ -7,3 +10,10 @@ psycopg2-binary
 python-dateutil
 pandas
 apache-airflow-providers-postgres
+
+#Phần B
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
