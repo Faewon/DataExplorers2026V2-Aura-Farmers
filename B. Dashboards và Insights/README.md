@@ -31,22 +31,6 @@ Hệ thống phân tích kinh doanh đa chiều trên **Power BI** cho **Thống
 │   ├── Phân Tích Địa Lý.jpg               # Dashboard 5
 │   └── Trạng Thái Vận Hành.jpg            # Dashboard 6
 │
-├── data/
-│   ├── README.md                          # Data dictionary – schema từng file CSV
-│   ├── gold_fact_sales.csv                # [GOLD]   Bảng tích hợp chính · 25,754 dòng
-│   ├── silver_customer_geo.csv            # [SILVER] Khách hàng + tọa độ địa lý
-│   ├── silver_province.csv                # [SILVER] Tỉnh/thành chuẩn hóa
-│   ├── fact_sales.csv                     # [BRONZE] Giao dịch thô
-│   ├── sales_order.csv                    # [BRONZE] Đơn hàng
-│   ├── order_line.csv                     # [BRONZE] Chi tiết dòng đơn
-│   ├── customer.csv                       # [BRONZE] Đại lý/khách hàng
-│   ├── product.csv                        # [BRONZE] Danh mục sản phẩm
-│   ├── product_line.csv                   # [BRONZE] Dòng xe
-│   ├── product_group.csv                  # [BRONZE] Nhóm xe
-│   ├── product_price.csv                  # [BRONZE] Bảng giá
-│   ├── province.csv                       # [BRONZE] Tỉnh/thành thô
-│   └── email_log.csv                      # Log xử lý email T3/2026 · nguồn Dashboard 6
-│
 ├── docs/
 │   ├── BaoCaoKyThuat_HangMucB.md          # Báo cáo kỹ thuật đầy đủ
 │   └── Insights.md                        # 6 insights · Phát hiện → Ý nghĩa → Khuyến nghị
