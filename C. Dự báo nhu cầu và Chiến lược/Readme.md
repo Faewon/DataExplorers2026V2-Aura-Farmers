@@ -46,7 +46,6 @@ Nhận diện:
 # Cấu trúc dự án 📂
 
 ```text
-Data_Explorers_2026/
 │
 ├── datasets/                 # Chứa dữ liệu customer, email, sales, v.v.
 │
