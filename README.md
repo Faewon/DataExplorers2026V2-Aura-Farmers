@@ -100,6 +100,7 @@ Bronze  →  Silver  →  Gold
 │   └── requirements.txt
 │
 ├── Data/                                # Dữ liệu nguồn
+│   ├── README.md                        # Mô tả dữ liệu
 │   ├── customer.csv
 │   ├── email_log.csv
 │   ├── fact_sales.csv
