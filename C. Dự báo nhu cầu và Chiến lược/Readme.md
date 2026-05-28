@@ -47,8 +47,6 @@ Nhận diện:
 
 ```text
 │
-├── datasets/                 # Chứa dữ liệu customer, email, sales, v.v.
-│
 ├── Part_3.ipynb              # Data Preprocessing, Feature Engineering & Forecasting
 ├── requirements.txt          # Danh sách thư viện Python cần thiết
 └── README.md                 # Tài liệu hướng dẫn dự án
