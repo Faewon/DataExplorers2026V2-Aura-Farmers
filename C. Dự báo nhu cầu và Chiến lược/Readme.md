@@ -1,11 +1,11 @@
-# Data Explorers 2026 - Hạng mục C: Dự báo nhu cầu & Chiến lược 🚀
+# Data Explorers 2026 - Hạng mục C: Dự báo nhu cầu & Chiến lược 
 
 Notebook này là một phần trong quy trình xử lý dữ liệu của nhóm **Aura Farmers**.
 File `Part_3.ipynb` tập trung giải quyết **Hạng mục C** với mục tiêu xử lý dữ liệu, trích xuất đặc trưng (*Feature Engineering*) và xây dựng mô hình học máy nhằm dự báo nhu cầu bán hàng cũng như phân tích chiến lược cho hệ thống đại lý.
 
 ---
 
-# Mục tiêu chính 🎯
+# Mục tiêu chính
 
 ## 1. Dự báo doanh số
 
@@ -43,7 +43,7 @@ Nhận diện:
 
 ---
 
-# Cấu trúc dự án 📂
+# Cấu trúc dự án 
 
 ```text
 │
@@ -130,7 +130,7 @@ Tính toán:
 
 ---
 
-# Mô hình hóa (Modeling) 🤖
+# Mô hình hóa (Modeling) 
 
 Áp dụng các mô hình Machine Learning nhằm dự báo:
 
@@ -201,7 +201,7 @@ Từ đó:
 
 ---
 
-# Hướng dẫn cài đặt & Khởi chạy 💻
+# Hướng dẫn cài đặt & Khởi chạy 
 
 ## 1. Clone Repository
 
