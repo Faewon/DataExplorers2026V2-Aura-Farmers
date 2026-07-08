@@ -1,9 +1,9 @@
-# 🚲 Xe Đạp Thống Nhất – Data Explorers Vòng 2
+# Xe Đạp Thống Nhất – Data Explorers Vòng 2
 **Team: Aura Farmers**
 
 ---
 
-## 📌 Tổng quan dự án
+## Tổng quan dự án
 
 Dự án xây dựng hệ thống dữ liệu toàn trình cho **Xe Đạp Thống Nhất (Thống Nhất Bike)** – doanh nghiệp sản xuất & phân phối xe đạp với hơn 200 SKU, 5 nhóm sản phẩm và mạng lưới **798 đại lý** trên toàn quốc.
 
@@ -27,7 +27,7 @@ Trước dự án, doanh nghiệp không có dashboard quản trị, không có 
 
 ---
 
-## 🏗️ Kiến trúc hệ thống
+## Kiến trúc hệ thống
 
 Hệ thống theo kiến trúc **Medallion 3 tầng**:
 
@@ -53,7 +53,7 @@ Bronze  →  Silver  →  Gold
 
 ---
 
-## 📁 Cấu trúc thư mục
+## Cấu trúc thư mục
 
 ```
 .
@@ -121,7 +121,7 @@ Bronze  →  Silver  →  Gold
 
 ---
 
-## 🅰️ Hạng mục A – Xử lý đơn hàng tự động
+## Hạng mục A – Xử lý đơn hàng tự động
 
 ### Kết quả
 
@@ -183,7 +183,7 @@ psql -U postgres -d tnbike -c "SELECT COUNT(*) FROM email_log WHERE status='succ
 
 ---
 
-## 🅱️ Hạng mục B – Dashboards & Insights
+## Hạng mục B – Dashboards & Insights
 
 ### 6 Dashboard Power BI (nguồn: `gold_fact_sales`)
 
@@ -244,7 +244,7 @@ jupyter notebook Part_3.ipynb
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 Toàn bộ schema xem tại: `A. Xử lý đơn hàng tự động/tnbike_database_schema.md`
 
@@ -261,7 +261,7 @@ Toàn bộ schema xem tại: `A. Xử lý đơn hàng tự động/tnbike_databa
 
 ---
 
-## ✅ Tổng kết thành quả
+## Tổng kết thành quả
 
 | Hạng mục | Kết quả |
 |---|---|
